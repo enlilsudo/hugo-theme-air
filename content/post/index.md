@@ -13,7 +13,9 @@ On this site, you'll find
 Este documento descreve os formatos de URI para definir conexões entre aplicativos e instâncias do MongoDB.
 
 > Analyse **purpose**
+
 > Analyse **audience**
+
 > Write **purpose statement**
 
 # Connection String Formats
@@ -24,25 +26,48 @@ Este documento descreve os formatos de URI para definir conexões entre aplicati
  - [ ] and final proof
 
 ## The 13 steps of technical writing
-```mermaid
-graph LR
-A[Analyse purpose] -- Analyse audience --> B((Write purpose statement))
-A --> C(Gather information)
-B --> D{Write sentence outline}
-C --> D
-```
-```mermaid
-graph LR
-A[Write draft] -- Revise content & organization --> B((Edit for coherence))
-A --> C(Edir for clarity)
-B --> D{Edit for economy}
-C --> D{Check for readability}
-```
-```mermaid
-graph LR
-A[Check for correctness] -- Proofread --> B((Publish))
-```
+C4Context
+     title System Context diagram for Internet Banking System
+     Enterprise_Boundary(b0, "BankBoundary0") {
+       Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
+       Person(customerB, "Banking Customer B")      
+       Person_Ext(customerC, "Banking Customer C", "desc")            
 
+       Person(customerD, "Banking Customer D", "A customer of the bank, <br/> with personal bank accounts.")
+
+       System(SystemAA, "Internet Banking System", "Allows customers to view information about their bank accounts, and make payments.")  
+
+       Enterprise_Boundary(b1, "BankBoundary") {
+
+         SystemDb_Ext(SystemE, "Mainframe Banking System", "Stores all of the core banking information about customers, accounts, transactions, etc.")      
+
+         System_Boundary(b2, "BankBoundary2") {  
+           System(SystemA, "Banking System A")  
+           System(SystemB, "Banking System B", "A system of the bank, with personal bank accounts. next line.")        
+         }
+
+         System_Ext(SystemC, "E-mail system", "The internal Microsoft Exchange e-mail system.")
+         SystemDb(SystemD, "Banking System D Database", "A system of the bank, with personal bank accounts.")
+
+         Boundary(b3, "BankBoundary3", "boundary") {  
+           SystemQueue(SystemF, "Banking System F Queue", "A system of the bank.")        
+           SystemQueue_Ext(SystemG, "Banking System G Queue", "A system of the bank, with personal bank accounts.")
+         }
+       }
+     }
+
+     BiRel(customerA, SystemAA, "Uses")
+     BiRel(SystemAA, SystemE, "Uses")
+     Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
+     Rel(SystemC, customerA, "Sends e-mails to")
+
+     UpdateElementStyle(customerA, $fontColor="red", $bgColor="grey", $borderColor="red")
+     UpdateRelStyle(customerA, SystemAA, $textColor="blue", $lineColor="blue", $offsetX="5")
+     UpdateRelStyle(SystemAA, SystemE, $textColor="blue", $lineColor="blue", $offsetY="-10")
+     UpdateRelStyle(SystemAA, SystemC, $textColor="blue", $lineColor="blue", $offsetY="-40", $offsetX="-50")
+     UpdateRelStyle(SystemC, customerA, $textColor="red", $lineColor="red", $offsetX="-50", $offsetY="20")
+
+     UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
 This procedure is called "writing systematically", which involves distributing the main systems of writing (13 steps) described above.
 
 The systematic writing system will help us to get better in following aspects:
