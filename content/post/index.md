@@ -1,5 +1,4 @@
 # Welcome to my portfolio
-
 ![image alt text](images/perfil.jpg) Resize "50x50"
 On this site, you'll find
 
