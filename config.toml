@@ -13,7 +13,7 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "Automating Text Processing"
+  description = "By Orlando Nogueira de Souza"
   cover = "images/user.jpg"
   author = "enlil"
   authorlocation = ""
