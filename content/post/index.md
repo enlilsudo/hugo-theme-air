@@ -5,8 +5,15 @@ On this site, you'll find
 - [ ] **My Biography**
 I've always enjoyed exploring ideas that impact our lives in meaningful ways. The fact that I studied philosophy might give the impression that I'm more humanistically oriented. This conclusion would seem very plausible were it not for the fact that we're complex living beings with many layers of hidden possibilities.  
 - [ ] **My projects**
+My personal projects are mostly a direct reflection of my perspectives and professional experiences. I've been a technical writer for almost 10 years. But I wouldn't be able to go this far if I didn't have the help and support of many colleagues and collaborators I've had the opportunity to work with and learn from. To enlist all the projects I have worked in my career would be boring and unecessary. Therefore, I have decided to present the two most decisive ones in my journey.
 
-- [ ] My resumé
+What really matters to me in life is the fact that there are few things that really stick in our mind. One of them was the privilege of working with a team of experienced engineers to build a PaaS platform and write all the documentation, not only in terms of software, but also in terms of cloud computing technologies, like Kubernetes and Docker. And in order to do that, we had to map the whole process, tools, technologies and best practices.
+
+1. To have participated in a big project of building and integrating a PaaS platform from the scratch.
+![image alt text](images/paas.jpg)
+
+
+- [ ] **My resumé**
 
 ![image alt text](images/logoawk.png)
 
