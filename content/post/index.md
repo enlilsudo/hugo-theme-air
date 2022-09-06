@@ -27,7 +27,7 @@ Technical writers and corporate communicators. Technical writers more often coll
  - [ ] Time management
  - [ ] Coordination with staff and clients
  - [ ] Document quality
- - [Automation]
+ - [ ] Automation
 
 
 ## Determine the audience's purpose for reading.
