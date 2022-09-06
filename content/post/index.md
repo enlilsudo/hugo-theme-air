@@ -2,8 +2,10 @@
 ![image alt text](images/data.jpg)
 On this site, you'll find
 
-- [ ] My Biography
-- [ ] My projects
+- [ ] **My Biography**
+I've always enjoyed exploring ideas that impact our lives in meaningful ways. The fact that I studied philosophy might give the impression that I'm more humanistically oriented. This conclusion would seem very plausible were it not for the fact that we're complex living beings with many layers of hidden possibilities.  
+- [ ] **My projects**
+
 - [ ] My resumé
 
 ![image alt text](images/logoawk.png)
