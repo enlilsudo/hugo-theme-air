@@ -1,9 +1,6 @@
 # Welcome to my portfolio
-{{ $image := .Page.Resources.GetMatch .Destination }}
-{{ if gt $image.Width 640 }}
-    {{ $image = $image.Resize "640x" }}
-{{ end }}
-![image alt text](images/perfil.jpg)
+
+![image alt text](images/perfil.jpg) Resize "50x50"
 On this site, you'll find
 
 * My Biography
