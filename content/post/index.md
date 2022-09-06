@@ -1,5 +1,5 @@
 # Welcome to my portfolio
-![image alt text](images/perfil.jpg) Resize "50x50"
+![image alt text](images/data.jpg)
 On this site, you'll find
 
 * My Biography
