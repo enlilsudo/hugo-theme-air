@@ -2,9 +2,9 @@
 ![image alt text](images/data.jpg)
 On this site, you'll find
 
-* My Biography
-* My projects
-* My resumé
+- [ ] My Biography
+- [ ] My projects
+- [ ] My resumé
 
 # AWK Pogramming Language - A Tutorial
 
