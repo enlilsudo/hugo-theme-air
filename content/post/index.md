@@ -7,75 +7,23 @@ On this site, you'll find
 # AWK Pogramming Language - A Tutorial
 
 
-## Connection String URI Format
-> "*The purpose statement is the soul of any technical article.*" (Orlando Nogueira)
->
-Este documento descreve os formatos de URI para definir conexões entre aplicativos e instâncias do MongoDB.
+# Different Facets to Technical Writing
 
-> Analyse **purpose**
+Technical writers and corporate communicators. Technical writers more often collaborate with subject matter experts (SMEs), such as engineers, technical experts, medical professionals, etc. to define and then create documentation to meet the user’s needs. Corporate communications includes other types of written documentation, for example:
 
-> Analyse **audience**
 
-> Write **purpose statement**
 
-# Connection String Formats
-
- - [ ] url-db
- - [ ]  Sentence outline
- - [ ] Draft
- - [ ] and final proof
-
-## The 13 steps of technical writing
-C4Context
-     title System Context diagram for Internet Banking System
-     Enterprise_Boundary(b0, "BankBoundary0") {
-       Person(customerA, "Banking Customer A", "A customer of the bank, with personal bank accounts.")
-       Person(customerB, "Banking Customer B")      
-       Person_Ext(customerC, "Banking Customer C", "desc")            
-
-       Person(customerD, "Banking Customer D", "A customer of the bank, <br/> with personal bank accounts.")
-
-       System(SystemAA, "Internet Banking System", "Allows customers to view information about their bank accounts, and make payments.")  
-
-       Enterprise_Boundary(b1, "BankBoundary") {
-
-         SystemDb_Ext(SystemE, "Mainframe Banking System", "Stores all of the core banking information about customers, accounts, transactions, etc.")      
-
-         System_Boundary(b2, "BankBoundary2") {  
-           System(SystemA, "Banking System A")  
-           System(SystemB, "Banking System B", "A system of the bank, with personal bank accounts. next line.")        
-         }
-
-         System_Ext(SystemC, "E-mail system", "The internal Microsoft Exchange e-mail system.")
-         SystemDb(SystemD, "Banking System D Database", "A system of the bank, with personal bank accounts.")
-
-         Boundary(b3, "BankBoundary3", "boundary") {  
-           SystemQueue(SystemF, "Banking System F Queue", "A system of the bank.")        
-           SystemQueue_Ext(SystemG, "Banking System G Queue", "A system of the bank, with personal bank accounts.")
-         }
-       }
-     }
-
-     BiRel(customerA, SystemAA, "Uses")
-     BiRel(SystemAA, SystemE, "Uses")
-     Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
-     Rel(SystemC, customerA, "Sends e-mails to")
-
-     UpdateElementStyle(customerA, $fontColor="red", $bgColor="grey", $borderColor="red")
-     UpdateRelStyle(customerA, SystemAA, $textColor="blue", $lineColor="blue", $offsetX="5")
-     UpdateRelStyle(SystemAA, SystemE, $textColor="blue", $lineColor="blue", $offsetY="-10")
-     UpdateRelStyle(SystemAA, SystemC, $textColor="blue", $lineColor="blue", $offsetY="-40", $offsetX="-50")
-     UpdateRelStyle(SystemC, customerA, $textColor="red", $lineColor="red", $offsetX="-50", $offsetY="20")
-
-     UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
-This procedure is called "writing systematically", which involves distributing the main systems of writing (13 steps) described above.
-
-The systematic writing system will help us to get better in following aspects:
+- Market communications (MarCom): MarCom writers endeavor to convey the company’s value proposition through a variety of print, electronic, and social media. This area of corporate writing is often engaged in responding to proposals.
+- Technical communication (TechCom): Technical writers document a company’s product or service. Technical publications may include user guides, installation and configuration manuals, and troubleshooting and repair procedures.
+- Legal writing: This type of documentation is often prepared by attorneys or paralegals.
+- Compliance documentation: This type of documentation codifies Standard Operating Procedures (SOPs), for any regulatory compliance needs, as for safety approval, taxation, financing, technical approval, and all the rest.
+- Healthcare documentation: This field of documentation encompasses the timely recording and validation of events that have occurred during the course of providing healthcare assistance.
 
  - [ ] Speed
  - [ ] Time management
  - [ ] Coordination with staff and clients
  - [ ] Document quality
+ - [Automation]
 
 
 ## Determine the audience's purpose for reading.
@@ -186,16 +134,6 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
