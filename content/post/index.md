@@ -7,7 +7,7 @@ On this site, you'll find
 
 # AWK Pogramming Language - A Tutorial
 
-![graph](/post/data/images/graph.png)
+![your_image](/post/images/screenshot.png)
 
 
 
