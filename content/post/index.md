@@ -7,7 +7,7 @@ On this site, you'll find
 
 # AWK Pogramming Language - A Tutorial
 
-![graph](/post/images/graph.png)
+![graph](/images/graph.png)
 
 # Different Facets to Technical Writing
 
