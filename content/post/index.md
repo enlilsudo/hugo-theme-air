@@ -18,7 +18,7 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 
 - [ ] **My resumé**
 
-Take a look at some sample public domain structured documentation https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
+Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
 
 
 
