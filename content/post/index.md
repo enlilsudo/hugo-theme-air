@@ -8,7 +8,7 @@ On this site, you'll find
 
 ![image alt text](images/logoawk.png)
 
-# AWK Pogramming Language - A Tutorial
+# A Tutorial about integrating AWK with other tools
 
 ![image alt text](images/graph.png)
 
