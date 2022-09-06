@@ -7,7 +7,7 @@ On this site, you'll find
 
 # AWK Pogramming Language - A Tutorial
 
-![graph](images/graph.png)
+![graph](/post/data/images/graph.png)
 
 
 
