@@ -4,8 +4,10 @@ On this site, you'll find
 * My Biography
 * My projects
 * My resumé
+
 # AWK Pogramming Language - A Tutorial
 
+![graph](/post/images/graph.png)
 
 # Different Facets to Technical Writing
 
