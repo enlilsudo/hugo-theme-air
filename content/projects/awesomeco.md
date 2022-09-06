@@ -9,3 +9,5 @@ Description...
 * GitBook
 * GitLab
 * Git
+
+{{< video autoplay="true" loop="true" src="https://www.youtube.com/watch?v=9YOZmI-zWok" >}}
