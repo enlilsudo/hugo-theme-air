@@ -1,4 +1,4 @@
-# This is my portfolio.
+# Welcome to my portfolio
 On this site, you'll find
 
 * My Biography
