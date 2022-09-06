@@ -16,7 +16,6 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 
 - [ ] **My resumé**
 
-![image alt text](images/perfil1.jpg)
 
 
 
