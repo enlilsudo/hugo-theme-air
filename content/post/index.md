@@ -15,6 +15,7 @@ What really matters to me in life is the fact that there are few things that rea
 For documentation, we had a few platforms to work with, such as GitHub, GitBook, Notion, Target Process, Slack, and other tools used in isolation. Among the best was AWK - it seemed to me to be one of the most powerful languages for dealing with large amounts of text. To scan, correct, format, and provide many other useful features. This is an introduction to my experience with AWK in an environment where large documents are created. And the need to process them is even more daring.
 
 - [ ] **My resumé**
+
 ![image alt text](images/perfil1.jpg)
 
 
