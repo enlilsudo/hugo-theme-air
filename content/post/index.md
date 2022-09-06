@@ -6,6 +6,8 @@ On this site, you'll find
 - [ ] My projects
 - [ ] My resumé
 
+![image alt text](images/logoawk.png)
+
 # AWK Pogramming Language - A Tutorial
 
 ![image alt text](images/graph.png)
