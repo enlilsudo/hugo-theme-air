@@ -11,7 +11,7 @@ On this site, you'll find
 
 
 
-# Different Facets to Technical Writing
+### Different Facets to Technical Writing
 
 Technical writers and corporate communicators. Technical writers more often collaborate with subject matter experts (SMEs), such as engineers, technical experts, medical professionals, etc. to define and then create documentation to meet the user’s needs. Corporate communications includes other types of written documentation, for example:
 
