@@ -13,6 +13,11 @@ On this site, you'll find
 
 Technical writers and corporate communicators. Technical writers more often collaborate with subject matter experts (SMEs), such as engineers, technical experts, medical professionals, etc. to define and then create documentation to meet the user’s needs. Corporate communications includes other types of written documentation, for example:
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
 
 - Market communications (MarCom): MarCom writers endeavor to convey the company’s value proposition through a variety of print, electronic, and social media. This area of corporate writing is often engaged in responding to proposals.
