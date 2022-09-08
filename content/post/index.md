@@ -28,6 +28,8 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 5. Udemy - Certified Kubernetes Application Developer (CKAD)
 6. Udemy - Data Engineering - SSIS/ETL/Pipelines/Python/Web Scraping
 7. Udemy - Business Writing & Technical Writing Immersion
+---
+**Professional Experience**
 
 > See my personal experience, education background, and skills.
 Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
