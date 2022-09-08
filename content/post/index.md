@@ -52,7 +52,7 @@ architecture.
     - To use that data to take critical decisons, innumeracy, transformations, non-linear analysis.
 4. R and Python languages for data related issues.
 5. References, tutorials, how-tos, explanations, user manuals and handbooks of cloud computing enviroments.
-6. Customer Satisfaction Surveys with automated feedback on the status services.
+6. Customer Satisfaction Surveys with automated feedback on the status of services.
 7. Fluent English, Portuguese (native) and Spanish - written and spoken skills.
 8. Translation with automated tools and pre-configured glossary. InstaText, Quillbot, video editing with Vimeo and Placeit.
 > See my personal experience, education background, and skills.
