@@ -18,6 +18,15 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 
 - [ ] **My resumé**
 
+---
+1. Penn Fsoter Carreer School - Scranton Pennsylvania, USA.
+2. Belford High School - New York, USA
+3. EDX Online - MIT - Computer Science with Python.
+    - Data Analysis
+    - Data Structure and Alçgorithms
+4. Udemy - SQL for Data analysis
+5. Udemy - Certified Kubernetes Application Developer (CKAD)
+
 > See my personal experience, education background, and skills.
 Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
 
