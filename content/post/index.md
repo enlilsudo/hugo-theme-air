@@ -38,26 +38,23 @@ architecture.
 7. Udemy - Business Writing & Technical Writing Immersion
 ---
 **Professional Experience**
-1. Penn Foster Carreer School -Network Administration - Scranton Pennsylvania, USA.
-2. Belford High School - New York, USA
-3. EDX Online - MIT - Computer Science with Python.
-    - Data Analysis
-    - Data Structure and Algorithms
-4. Udemy - SQL for Data analysis
-5. Udemy - Certified Kubernetes Application Developer (CKAD)
-6. Udemy - Data Engineering - SSIS/ETL/Pipelines/Python/Web Scraping
-7. Udemy - Business Writing & Technical Writing Immersion
+1. Opportunity Fund - Loan Agency -California, USA.
+2. BairesDev - Beunos Aires, Argentina
+3. Digibee Integration Platform - Sãp Paulo, Brazil.
+    - Technical Writer, responsible to document connector and platform in diverse formats
+    - Data Structure Analysis, Doc as Code - Slack, Target Process, Wiki, Notion, etc.
 ---
 **Skills**
-1. Penn Foster Carreer School -Network Administration - Scranton Pennsylvania, USA.
-2. Belford High School - New York, USA
-3. EDX Online - MIT - Computer Science with Python.
-    - Data Analysis
-    - Data Structure and Algorithms
-4. Udemy - SQL for Data analysis
-5. Udemy - Certified Kubernetes Application Developer (CKAD)
-6. Udemy - Data Engineering - SSIS/ETL/Pipelines/Python/Web Scraping
-7. Udemy - Business Writing & Technical Writing Immersion
+1. JavaScript, React, Storybook, Sphinx, Java (Docstring), Hugo, Doxygen, Epydoc.
+2. Jekyll, Kubernetes, Docker, Python and Pandas (Data Analysis), Node.JS e Express.
+3. GitHub, GitBook, GitLab, Google Docs, presentations, forms, reports of various projects.
+    - Data Analysis, collection, web scrapíng, processing, cleaning, exploratory & confirmatory analysis.
+    - To use that data to take critical decisons, innumeracy, transformations, non-linear analysis.
+4. R and Python languages for data related issues.
+5. References, tutorials, how-tos, explanations, user manuals and handbooks of cloud computing enviroments.
+6. Customer Satisfaction Surveys with automated feedback on the status services.
+7. Fluent English, Portuguese (native) and Spanish - written and spoken skills.
+8. Translation with automated tools and pre-configured glossary. InstaText, Quillbot, video editing with Vimeo and Placeit. 
 > See my personal experience, education background, and skills.
 Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
 
