@@ -2,7 +2,7 @@
 title: "Awesomeco"
 draft: false
 ---
-![alt] (//via.placeholder.com/640x150)
+![image alt text](images/python1.jpg)
 Description...
 ### Tech used
 * AWK
