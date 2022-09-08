@@ -90,7 +90,7 @@ Technical writers craft connections between an audience and a product. To build 
 
 Equipped with this audience awareness, you can write more accessible, well-situated, and supportive documentation. You can also help create *more satisfied customers*.
 
-### How identifying audience can help a documentation team ###
+### How identifying audience can help a team ###
 
 Your documentation audience is likely composed of users with different experience levels, business roles, or use cases. You may be surprised at how many audiences use your documents.
 
