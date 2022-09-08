@@ -17,6 +17,14 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 {{< video autoplay="true" loop="true" src="https://www.youtube.com/watch?v=9YOZmI-zWok" >}}
 
 - [ ] **My resumé**
+To work with internal teams to obtain an in-depth understanding of
+the product and the documentation requirements. Produce high-quality documentation that meets applicable standards and is
+appropriate for its intended audience. Write easy-to-understand user
+interface text, online help and developer guides.
+Create tutorials to help end-users use a variety of applications.
+Analyze existing and potential content, focusing on reuse and
+single-sourcing opportunities. Create and maintain the information
+architecture.
 ---
 **Educational**
 1. Penn Foster Carreer School -Network Administration - Scranton Pennsylvania, USA.
