@@ -3,10 +3,15 @@
 On this site, you'll find
 ---
 > https://www.linkedin.com/in/orlando-nogueira-de-souza-1303a725/
+
 > https://app.gitbook.com/home
+
 > https://www.notion.so/Data-Analysis-and-Technical-Documentation-e16a1973a90b45d1b502703f7ff3d42e
+
 > https://twitter.com/i/flow/rweb_notifications_prompt_flow
+
 > https://www.youtube.com/channel/UC8G-EzbCFihpkxy4VLdD--Q
+
 > https://gitlab.com/orlando.nogueira
 ---
 
