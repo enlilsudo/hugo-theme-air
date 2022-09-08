@@ -42,7 +42,7 @@ architecture.
 2. BairesDev - Beunos Aires, Argentina
 3. Digibee Integration Platform - São Paulo, Brazil.
     - Technical Writer, responsible to document connector and platform in diverse formats
-    - Data Structure Analysis, Doc as Code - Slack, Target Process, Wiki, Notion, etc.
+    - Data structured Analysis, Doc as Code - Slack, Target Process, Wiki, Notion, etc.
 ---
 **Skills**
 1. JavaScript, React, Storybook, Sphinx, Java (Docstring), Hugo, Doxygen, Epydoc.
