@@ -1,5 +1,5 @@
 # Welcome to my portfolio
-![image alt text](images/techwrite.jpg)
+![image alt text](images/tech-writing.jpg)
 On this site, you'll find
 ---
 > https://www.linkedin.com/in/orlando-nogueira-de-souza-1303a725/
