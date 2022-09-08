@@ -1,11 +1,12 @@
 ---
-title: "Awesomeco"
+title: "Awesome"
 draft: false
 ---
 ![image alt text](images/python1.jpg)
-Description...
+Python rocks!
 ### Tech used
 * AWK
 * GitBook
 * GitLab
 * Git
+* Gastby
