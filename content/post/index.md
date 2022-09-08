@@ -34,7 +34,7 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 2. Belford High School - New York, USA
 3. EDX Online - MIT - Computer Science with Python.
     - Data Analysis
-    - Data Structure and Alçgorithms
+    - Data Structure and Algorithms
 4. Udemy - SQL for Data analysis
 5. Udemy - Certified Kubernetes Application Developer (CKAD)
 6. Udemy - Data Engineering - SSIS/ETL/Pipelines/Python/Web Scraping
@@ -45,7 +45,7 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 2. Belford High School - New York, USA
 3. EDX Online - MIT - Computer Science with Python.
     - Data Analysis
-    - Data Structure and Alçgorithms
+    - Data Structure and Algorithms
 4. Udemy - SQL for Data analysis
 5. Udemy - Certified Kubernetes Application Developer (CKAD)
 6. Udemy - Data Engineering - SSIS/ETL/Pipelines/Python/Web Scraping
