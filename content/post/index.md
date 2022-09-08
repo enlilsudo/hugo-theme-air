@@ -185,12 +185,13 @@ You can publish your repository by opening the **GitHub Desktop** sub-menu and b
 
 - Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
 - HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
+- RST format, JSON, XML, etc.
 
 ## Update a publication
 
-After publishing, StackEdit keeps your file linked to that publication, which makes it easy for you to re-publish it. Once you have modified your file, and you want to update your publication, click on the **Publish now** button in the navigation bar.
+After publishing, StackEdit keeps your file linked to that publication, which makes it easy for you to re-publish it. Once you have modified your file, and you want to update your publication, click on the **Commit now** button in the navigation bar.
 
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
+> **Note:** The **Commit now** button is disabled if your file has not been published yet.
 
 ## Manage file publication
 
