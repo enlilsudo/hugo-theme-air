@@ -134,7 +134,7 @@ The four main audiences, and how each uses information:
 ## Identifying your purpose for writing
 Try to answer, "what does the document do for you and your organization?" Consider the possibility that you may have more than one purpose for writing. If you have more than one purpose for writing, you most likely have more than one audience.
 
-> **Warning**: Do not confuse the topic with your purpose for writing about it. *my purpose* is *to explain the functions of a new component* just discloses the topic. Instead, try to focus on what you achieve by explaning the topic: *I want the client to approve our set of functions, and I want the technical staff to develop a detailed design with the approved set of functions.
+> **Warning**: Do not confuse the topic with your purpose for writing about it. *My purpose* is *to explain the functions of a new component* just discloses the topic. Instead, try to focus on what you achieve by explaning the topic: *I want the client to approve our set of functions, and I want the technical staff to develop a detailed design with the approved set of functions.
 
 **Example**: There is an important difference between an *audience definition* and a *persona*. Many teams use personas to inform their design and development decisions. But a *persona* is a concrete characterization rather than a *well-defined audience type*. Both are valuable, but they are not the same thing.
 
