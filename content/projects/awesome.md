@@ -3,8 +3,8 @@ title: "Awesome"
 draft: false
 ---
 ![image alt text](images/python1.jpg)
-Python rocks!
-### Tech used
+> Python rocks!
+### Technology used
 * AWK
 * GitBook
 * GitLab
