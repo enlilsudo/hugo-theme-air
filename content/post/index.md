@@ -17,7 +17,6 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 {{< video autoplay="true" loop="true" src="https://www.youtube.com/watch?v=9YOZmI-zWok" >}}
 
 - [ ] **My resumé**
-
 ---
 1. Penn Fsoter Carreer School - Scranton Pennsylvania, USA.
 2. Belford High School - New York, USA
