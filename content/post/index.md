@@ -122,7 +122,7 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 ## Synchronize a file
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+Once your file is linked to a synchronized location, e.g., GitBook, GitHub, GitLab, Gastby, Notion, Wiki, etc., it will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved. By using AWK a team will be able to handle hundrers of texts with just a few commands. 
 
 If you just have modified your file, and you want to force syncing, click the **Synchronize now** button in the navigation bar.
 
