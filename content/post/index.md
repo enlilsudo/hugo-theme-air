@@ -140,7 +140,9 @@ Publishing in any platform is a simple process. Once you're happy with a file, y
 
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 
-## Publish a File
+## Publish a repository
+![image alt text](images/github.gif)
+
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
 
