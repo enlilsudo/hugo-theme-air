@@ -9,4 +9,4 @@ draft: false
 * GitBook
 * GitLab
 * Git
-* Gastby
+* Gatsby
