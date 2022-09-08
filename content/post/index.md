@@ -18,6 +18,7 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 
 - [ ] **My resumé**
 ---
+**Educational**
 1. Penn Foster Carreer School -Network Administration - Scranton Pennsylvania, USA.
 2. Belford High School - New York, USA
 3. EDX Online - MIT - Computer Science with Python.
