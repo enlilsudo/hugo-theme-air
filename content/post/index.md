@@ -55,6 +55,7 @@ architecture.
 6. Customer Satisfaction Surveys with automated feedback on the status of services.
 7. Fluent English, Portuguese (native) and Spanish - written and spoken skills.
 8. Translation with automated tools and pre-configured glossary. InstaText, Quillbot, video editing with Vimeo and Placeit.
+9. Producing diagrams wit Lucidchart, Mermaid, and Miro. Workflows, deliverables, mapping projects for presentations to the team.
 > See my personal experience, education background, and skills.
 Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
 
