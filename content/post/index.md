@@ -40,7 +40,7 @@ architecture.
 **Professional Experience**
 1. Opportunity Fund - Loan Agency -California, USA.
 2. BairesDev - Beunos Aires, Argentina
-3. Digibee Integration Platform - Sãp Paulo, Brazil.
+3. Digibee Integration Platform - São Paulo, Brazil.
     - Technical Writer, responsible to document connector and platform in diverse formats
     - Data Structure Analysis, Doc as Code - Slack, Target Process, Wiki, Notion, etc.
 ---
@@ -54,7 +54,7 @@ architecture.
 5. References, tutorials, how-tos, explanations, user manuals and handbooks of cloud computing enviroments.
 6. Customer Satisfaction Surveys with automated feedback on the status services.
 7. Fluent English, Portuguese (native) and Spanish - written and spoken skills.
-8. Translation with automated tools and pre-configured glossary. InstaText, Quillbot, video editing with Vimeo and Placeit. 
+8. Translation with automated tools and pre-configured glossary. InstaText, Quillbot, video editing with Vimeo and Placeit.
 > See my personal experience, education background, and skills.
 Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
 
