@@ -57,6 +57,8 @@ Technical writers and corporate communicators. Technical writers more often coll
 - Compliance documentation: This type of documentation codifies Standard Operating Procedures (SOPs), for any regulatory compliance needs, as for safety approval, taxation, financing, technical approval, and all the rest.
 - Healthcare documentation: This field of documentation encompasses the timely recording and validation of events that have occurred during the course of providing healthcare assistance.
 
+### Main factors of text processing with AWK ###
+
  - [ ] Speed
  - [ ] Time management
  - [ ] Coordination with staff and clients
