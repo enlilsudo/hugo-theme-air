@@ -50,6 +50,9 @@ architecture.
 3. GitHub, GitBook, GitLab, Google Docs, presentations, forms, reports of various projects.
     - Data Analysis, collection, web scrapíng, processing, cleaning, exploratory & confirmatory analysis.
     - To use that data to take critical decisons, innumeracy, transformations, non-linear analysis.
+![image alt text](images/datasets.jpeg)
+Data Sets Analyzed with Pandas
+
 4. R and Python languages for data related issues.
 5. References, tutorials, how-tos, explanations, user manuals and handbooks of cloud computing enviroments.
 6. Customer Satisfaction Surveys with automated feedback on the status of services.
