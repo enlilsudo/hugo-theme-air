@@ -18,6 +18,7 @@ For documentation, we had a few platforms to work with, such as GitHub, GitBook,
 
 - [ ] **My resumé**
 
+
 Take a look at some sample public domain structured documentation using GitBook - https://app.gitbook.com/s/L5ondDRPidoTsjjTFKI9/
 
 
@@ -32,11 +33,22 @@ Take a look at some sample public domain structured documentation using GitBook 
 
 Technical writers and corporate communicators. Technical writers more often collaborate with subject matter experts (SMEs), such as engineers, technical experts, medical professionals, etc. to define and then create documentation to meet the user’s needs. Corporate communications includes other types of written documentation, for example:
 
-| Syntax      | Description |
+| Type        | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
+| Tutorial    | New user    |
+| Thematic    | Intermediate|
+| Reference   | Expext users|
+| ----------- | ----------- |
+| Explanation | In depth doc|
+| How To      | Step by step|
+| Readme      | Info about  |
+| ----------- | ----------- |
+| Docstring   | Source code |
+| API         | Application |
+| Dita XML    | Text author.|
+| ----------- | ----------- |
+| UML         | Language    |
+| Sphinx      | Generator   |
 
 
 - Market communications (MarCom): MarCom writers endeavor to convey the company’s value proposition through a variety of print, electronic, and social media. This area of corporate writing is often engaged in responding to proposals.
