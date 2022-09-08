@@ -128,7 +128,7 @@ If you just have modified your file, and you want to force syncing, create a **S
 
 > **Note:** The option **Synchronize script** can be easily created using Python or any programming language.
 
-## Manage file synchronization
+## See how easy it is to synchronize with GitBook
 
 Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
 
