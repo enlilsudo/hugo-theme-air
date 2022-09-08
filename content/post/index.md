@@ -144,7 +144,7 @@ Publishing in any platform is a simple process. Once you're happy with a file, y
 ![image alt text](images/github.gif)
 
 
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
+You can publish your repository by opening the **GitHub Desktop** sub-menu and by clicking **Commit to**. For some locations, you can choose between the following formats:
 
 - Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
 - HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
