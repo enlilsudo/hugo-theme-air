@@ -122,11 +122,11 @@ You can save any file of the workspace to **Google Drive**, **Dropbox** or **Git
 
 ## Synchronize a file
 
-Once your file is linked to a synchronized location, e.g., GitBook, GitHub, GitLab, Gastby, Notion, Wiki, etc., it will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved. By using AWK a team will be able to handle hundrers of texts with just a few commands. 
+Once your file is linked to a synchronized location, e.g., GitBook, GitHub, GitLab, Gastby, Notion, Wiki, etc., it will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved. By using AWK a team will be able to handle hundrers of texts with just a few commands.
 
-If you just have modified your file, and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+If you just have modified your file, and you want to force syncing, create a **Synchronize script** in order to further automate repetitive tasks.
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+> **Note:** The option **Synchronize script** can be easily created using Python or any programming language.
 
 ## Manage file synchronization
 
@@ -135,7 +135,7 @@ Since one file can be synced with multiple locations, you can list and manage sy
 
 # Publication
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+Publishing in any platform is a simple process. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 
