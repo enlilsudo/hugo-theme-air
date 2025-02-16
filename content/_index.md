@@ -1,5 +1,5 @@
-This is my portfolio.
-On this site, you'll find
+A Lua nas 12 Casas do Zodáico.
+Neste site encontrarás os dias de uso dos minerais
 
 * My Biography
 ### This is my story...
